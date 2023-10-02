@@ -1,0 +1,3 @@
+﻿  Game Stone Paper Scissors.cpp
+C:\Users\ECC\Desktop\Game Stone Paper Scissors\Game Stone Paper Scissors.cpp(104): warning C4715: 'fn_WhoISTheWinner': not all control paths return a value
+  Game Stone Paper Scissors.vcxproj -> C:\Users\ECC\Desktop\Game Stone Paper Scissors\Debug\Game Stone Paper Scissors.exe
